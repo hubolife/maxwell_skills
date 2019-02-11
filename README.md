@@ -1,8 +1,8 @@
-# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/smile.svg' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> Hello World
-Introductory Skill so that Skill Authors can see how a Mycroft Skill is put together
+# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/smile.svg' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> Maxwell Acronym skill interface to Altsearch engine
+Skills to intergrate to Myscroft platform , Maxwell is the project name 
 
 ## About 
-This is a basic Hello Word Skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill, and is a good first Skill to study if you are interested in developing Skills for the Mycroft ecosystem. 
+This is a AltSearch for acroymyns skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill platform good in developing Skills for the Mycroft ecosystem. 
 
 If you want to write **Skills** for Mycroft, Documentation is available: 
 
@@ -15,18 +15,19 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
 
 ## Examples 
-* "Hello world"
-* "How are you?"
-* "Thank you"
+* "AltSearch"
+* "Link status?"
+* "Search Acronym"
 
 ## Credits 
-Mycroft AI (@MycroftAI)
+Mycroft AI (@MycroftAI) - Framework
+hubert.bouma@gmail.com
 
 ## Category
 **Daily**
 
 ## Tags
-#helloworld
-#first-skill
-#hello
-#greeting
+#altsearch
+#acronym
+#catagory
+
